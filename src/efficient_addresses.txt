@@ -1,0 +1,1 @@
+# Put your 0x-prefixed mined create2 vanity output here: "salt => address => rarity_score"
